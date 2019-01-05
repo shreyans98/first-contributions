@@ -1,5 +1,6 @@
 # Contributors
 - [Neeraj Dwivedi](https://github.com/neerajd007)
+- [Shreyans Singhi](https://github.com/shreyans98)
 - [Jowensky Neard] (https://github.com/Jowensky)
 - [Hayder Hassan](https://github.com/hayderhassan)
 - [Gaurav Purohit](https://github.com/Gauravpurohit409)
